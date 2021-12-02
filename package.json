@@ -23,5 +23,8 @@
     "parcel-bundler": "^1.12.5",
     "regenerator-runtime": "^0.13.9",
     "sass": "^1.44.0"
+  },
+  "dependencies": {
+    "fractional": "^1.0.0"
   }
 }
